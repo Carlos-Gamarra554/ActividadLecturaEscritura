@@ -1,0 +1,55 @@
+Ranking; Nombre
+1, Shuvalova, Polina
+2, Medarde Santiago, Luis Marcos
+3, Merario Alarcon, Andres
+5, Sofronie, Iulian
+6, Garcia Fernandez, Victor
+7, Teran Alvarez, Ismael
+9, Van der Hagen, Loek
+10, Medhus, Vitus Bondo
+11, Torres Sanchez, Jose
+13, Ibanez Aullana, Ramon
+14, Ghannoum, Marc
+15, Redzisz, Michal
+16, De La Puerta Cresis, Javier
+17, Pedchenko Bondar, Alexandr
+18, Shearsby, Jude
+20, Thuesen, Mogens
+22, Yu, Ting
+23, Nava Pereda, Carlos
+25, Bremner, Adam
+26, Mitchell, Martin
+27, Floris, Federico
+28, Rodriguez Lopez, Rafael
+30, Blanco Sanjuan, Jorge
+32, Tsiapko, Andrii
+33, Khoo-Thwe, Louis
+34, Gonzalez Gonzalez, Alfonso
+35, Portero Rubio, Martin
+36, Horcajada Reales, Guillermo
+37, Palomo Teruel, Xavier
+38, Van Dam, Niels
+39, Nettleton, Charlie B
+41, Delaney, John
+43, Wang, Hao(ZJ)
+44, Nadal Fajardo, Ricard
+45, Jankowiak, Piotr
+46, Lopez Pereyra, Antonio
+48, Sukhodolskyi, Oleksii
+49, Gonzalez Aguirre, Luis
+50, Planas Gene, Juan
+51, Avetisyan, Ani
+53, Martinez Herranz, Francisco Jose
+55, Sofronie, Vladimir
+56, Nguyen, Khoi
+58, Sakulski, Bernard
+61, Rutherford, William
+62, Huguet, Sergio
+63, Zhang, Junyi
+65, Yang, Sung-Jui
+66, Coll, Julien
+67, Gersemann, Karl
+69, Gerona Maura, Jesus
+70, Valera Munoz, Miguel A.
+71, Hu, Junyan
+72, Ding, Yiwen
